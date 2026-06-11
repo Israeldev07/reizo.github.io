@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 **Frontend & Design**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +35,7 @@ Además del desarrollo de software, cuento con experiencia aplicando soluciones 
 
 ###  Proyectos Destacados
 
-#### 📁 Sky
+####  Sky
 *   **Descripción:** Tienda de ropa online con diseño minimalista y velocidad extrema. filtros por talla/color/colección, Instagram Feed integrado, órdenes con notificaciones.
 *   **Stack:** Next.js, PostgreSQL (3NF Architecture), TypeScript / Excel Avanzado.
 *   **Características clave:** Interfaz de usuario de alta fidelidad, cálculo automatizado de tarifas y base de datos totalmente normalizada.
@@ -44,8 +44,8 @@ Además del desarrollo de software, cuento con experiencia aplicando soluciones 
 
 ###  Conectemos
 
-*   **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/)
-*   **Correo Electrónico:** alexreinoso34@gmail.com(mailto:tu-correo@email.com)
+*   **LinkedIn:** www.linkedin.com/in/israel-reinoso-baa447329
+*   **Correo Electrónico:** alexreinoso34@gmail.com
 
 ---
 <p align="center">
