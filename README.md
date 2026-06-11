@@ -47,7 +47,4 @@ Además del desarrollo de software, cuento con experiencia aplicando soluciones 
 *   **LinkedIn:** www.linkedin.com/in/israel-reinoso-baa447329
 *   **Correo Electrónico:** alexreinoso34@gmail.com
 
----
-<p align="center">
-  <i>"El código limpio siempre parece que fue escrito por alguien a quien le importa."</i>
 </p>
